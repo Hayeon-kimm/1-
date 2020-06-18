@@ -4,7 +4,7 @@
 [1주차 과제 수정/ 드라이브 URL 권한 문제로 수정](https://github.com/Hayeon-kimm/1-/blob/master/1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.pdf)
 ## 2주차 과제(2020.05.27)
 [2주차 과제](https://github.com/Hayeon-kimm/1-/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
-[2주차 정리](https://github.com/Hayeon-kimm/1-/blob/master/2%EC%A3%BC%EC%B0%A8_%EB%82%B4%EC%9A%A9_%EC%A0%95%EB%A6%AC.ipynb)
+\[2주차 정리](https://github.com/Hayeon-kimm/1-/blob/master/2%EC%A3%BC%EC%B0%A8_%EB%82%B4%EC%9A%A9_%EC%A0%95%EB%A6%AC.ipynb)
 ## 3주차 과제(2020.06.04)
 [3주차 과제](https://github.com/Hayeon-kimm/1-/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 ## 4주차 과제(2020.06.11)
